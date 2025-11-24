@@ -1,0 +1,6 @@
+streamloit
+panads
+numpy
+matplotlib
+streamlit_option_menu
+
