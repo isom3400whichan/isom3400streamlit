@@ -7,7 +7,7 @@ st.write('This is your Python Programming course.')
 with st.sidebar:
     selected=option_menu(
         menu_title = "Menu",
-        options = ["Home", "About", "Contact"],
+        options = ["ISOM3400", "About", "Contact"],
         icons = ['house', 'cloud-upload', 'list-task'],
         menu_icon= "cast",
         default_index=0,
